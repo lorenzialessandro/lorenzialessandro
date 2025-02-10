@@ -1,19 +1,14 @@
-## Hi, I'm Alessandro 😀
-
-<div align="center">
-   <a href="https://alessandrolorenzi.it/"><img src="https://img.shields.io/badge/my%20website-3d89fc?style=for-the-badge"></a>
-   <a href="https://www.linkedin.com/in/alessandro-lorenzi-48a6131b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="mailto: lorenzi.alessandro19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
-
----
+<h2 align="center">Hello! I'm Alessandro! 👋🏻😀</h2>
+<p align="center">
+   <a href="https://alessandrolorenzi.it/">Website</a> •
+   <a href="https://www.linkedin.com/in/alessandro-lorenzi-48a6131b5/">LinkedIn</a> •
+   <a href="mailto: lorenzi.alessandro19@gmail.com">Contact</a>
+</p>
 
 
-I am currently doing a **Master's degree in Artificial Intelligence Systems** at the *University of Trento* (Italy), where I'm building advanced skills in AI-driven solutions, machine learning, and optimization.
+- 🎓 I'm currently pursuing a Master's degree in **Artificial Intelligence Systems** (University of Trento).
+- 💡 My background includes a Bachelor’s degree in **Computer Science**.
+- 🚀 Passionate about computer vision, optimization, reinforcement learning, agents and more.
+- 💻 Always exploring new technologies and working on exciting projects—feel free to connect!
 
-I worked as an *IT consultant* specializing in digital transformation, where I led projects to modernize processes and developed custom management solutions tailored to client needs.
-
-My background includes a *Bachelor's degree in Computer Science* from the University of Trento, providing a strong foundation in software development, data structures, and algorithms.
-
-
-
+See some repos of my projects below!
