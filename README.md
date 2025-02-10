@@ -9,6 +9,6 @@
 - 🎓 I'm currently pursuing a Master's degree in **Artificial Intelligence Systems** (University of Trento).
 - 💡 My background includes a Bachelor’s degree in **Computer Science**.
 - 🚀 Passionate about computer vision, optimization, reinforcement learning, agents and more.
-- 💻 Always exploring new technologies and working on exciting projects—feel free to connect!
+- 💻 Always exploring new technologies and working on exciting projects — feel free to connect!
 
 See some repos of my projects below!
